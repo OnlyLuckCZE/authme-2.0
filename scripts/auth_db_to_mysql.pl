@@ -9,9 +9,9 @@ use DBI;
 ##############################
 
 my $host = "localhost";
-my $database = "authme";
-my $username = "authme";
-my $password = "password";
+my $database = "gs_27775_1";
+my $username = "gs_27775_1";
+my $password = "6516a734";
 my $auth_file = "/opt/craftbukkit/plugins/auths.db";
 
 ###############################
